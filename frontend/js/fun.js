@@ -68,3 +68,8 @@ if(page === "about"){
 if(page === "login"){
     initLoginPage();
 }
+
+
+if(page === "shope"){
+    initLoginPage();
+}
